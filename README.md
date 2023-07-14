@@ -21,7 +21,7 @@ Bachiller en Economía por la Pontificia Universidad Católica del Perú. Me int
 - Practicante en el Departamento de Estadística Fiscal en el [Banco Central de Reserva del Perú](https://www.bcrp.gob.pe/)
 
 ## Languages ​​and Tools :fire:
-- Análisis de datos con **Anaconda**.
+- Análisis de datos con **Anaconda/Python**.
 - Análisis de datos con **Stata**.
 - Análisis de datos con **RStudio**.
 - Manejo de **Word**, **PP**, **Excel**
@@ -29,7 +29,7 @@ Bachiller en Economía por la Pontificia Universidad Católica del Perú. Me int
 
 
 ##  Contact Me :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renzo-sebastian-mosquera-lucano-716ba8207/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renzo.mosquera@pucp.edu.pe)](mailto:renzo.mosquera@pucp.edu.pe) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
+[![Linkedin Badge](https://img.shields.io/badge/-RenzoMosquera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renzo-sebastian-mosquera-lucano-716ba8207/) [![Gmail Badge](https://img.shields.io/badge/-renzo.mosquera@pucp.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renzo.mosquera@pucp.edu.pe)](mailto:renzo.mosquera@pucp.edu.pe)
 
 <p align="center"> 
   Visitor count<br>
