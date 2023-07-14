@@ -19,8 +19,7 @@ Bachiller en Economía por la Pontificia Universidad Católica del Perú. Me int
 
 ## Experience :dancers:
 - Practicante en el Departamento de Estadística Fiscal en el [Banco Central de Reserva del Perú](https://www.bcrp.gob.pe/)
-<br/>
-  Seguimiento de las principales cuentas fiscales: gasto público y endeudamiento. Uso intensivo de plataformas como el SIAF y Proinversión.
+  <br/> Seguimiento de las principales cuentas fiscales: gasto público y endeudamiento. Uso intensivo de plataformas como el SIAF y Proinversión.
 
 ## Languages ​​and Tools :fire:
 - Análisis de datos con **Anaconda/Python**.
