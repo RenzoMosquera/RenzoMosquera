@@ -15,10 +15,11 @@
 
 
 ## About me :sunglasses:
-Bachiller en Economía por la Pontificia Universidad Católica del Perú. Me interesa mucho la macroeconomía y las finanzas, tanto en el ámbito académico como el laboral. Tengo experiencia en el tratamiento y análisis de base de datos.
+Bachiller en Economía por la Pontificia Universidad Católica del Perú. Me interesa mucho la macroeconomía, las finanzas y el mundo empresarial, tanto en el ámbito académico como el laboral. Tengo experiencia en el tratamiento, creación y análisis de bases de datos.
 
 ## Experience :dancers:
 - Practicante en el Departamento de Estadística Fiscal en el [Banco Central de Reserva del Perú](https://www.bcrp.gob.pe/)
+  Seguimiento de las principales cuentas fiscales: gasto público y endeudamiento. Uso intensivo de plataformas como el SIAF y Proinversión.
 
 ## Languages ​​and Tools :fire:
 - Análisis de datos con **Anaconda/Python**.
